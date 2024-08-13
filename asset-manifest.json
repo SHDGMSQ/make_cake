@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/make_cake/static/css/main.b4d36181.css",
+    "main.js": "/make_cake/static/js/main.8f32bfeb.js",
+    "index.html": "/make_cake/index.html",
+    "main.b4d36181.css.map": "/make_cake/static/css/main.b4d36181.css.map",
+    "main.8f32bfeb.js.map": "/make_cake/static/js/main.8f32bfeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4d36181.css",
+    "static/js/main.8f32bfeb.js"
+  ]
+}
